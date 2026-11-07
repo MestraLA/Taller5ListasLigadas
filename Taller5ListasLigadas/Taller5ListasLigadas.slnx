@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Backend/Taller5ListasLigadas.Backend.csproj" />
+  <Project Path="Frontend/Taller5ListasLigadas.Frontend.csproj" />
+</Solution>
